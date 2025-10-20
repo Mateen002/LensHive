@@ -1,0 +1,74 @@
+# Flutter/Dart
+lenshive/.dart_tool/
+lenshive/.flutter-plugins
+lenshive/.flutter-plugins-dependencies
+lenshive/.packages
+lenshive/.pub-cache/
+lenshive/.pub/
+lenshive/build/
+lenshive/flutter_*.png
+lenshive/linked_*.ds
+lenshive/unlinked.ds
+lenshive/unlinked_spec.ds
+lenshive/.fvm/
+lenshive/coverage/
+lenshive/lib/generated_plugin_registrant.dart
+lenshive/.flutter_settings
+lenshive/*.iml
+lenshive/*.lock
+
+# Django Backend
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+backend/.Python
+backend/venv/
+backend/ENV/
+backend/env/
+backend/.venv
+backend/pip-log.txt
+backend/pip-delete-this-directory.txt
+backend/.tox/
+backend/.coverage
+backend/.coverage.*
+backend/.cache
+backend/nosetests.xml
+backend/coverage.xml
+backend/*.cover
+backend/*.log
+backend/local_settings.py
+backend/db.sqlite3
+backend/db.sqlite3-journal
+backend/media/
+backend/staticfiles/
+
+# Environment Variables
+backend/.env
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Database
+*.sql
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Test files
+backend/TEST_REGISTRATION.md
+
